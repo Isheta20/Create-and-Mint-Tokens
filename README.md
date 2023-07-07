@@ -10,7 +10,7 @@ This program is a simple contract written in Solidity, a programming language us
 1. Clone the repository:
 
 ```
-git clone <https://github.com/RIDAMSINHA/CREATING-MY-OWN-ATM.git>
+git clone <https://github.com/Isheta20/Create-and-Mint-Tokens.git>
 ```
 
 2. Install the dependencies :
