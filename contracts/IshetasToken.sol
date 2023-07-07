@@ -14,9 +14,3 @@ contract IshetasToken is ERC20("Kitsune Token", "KT"), Ownable{
             _burn(msg.sender, amount* 10**18);
         }
 }
-
-
-
-//0x8626f6940E2eb28930eFb4CeF49B2d1F2C9C1199 - 3
-
-//0xdD2FD4581271e230360230F9337D5c0430Bf44C0 - 4
