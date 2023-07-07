@@ -20,7 +20,15 @@ cd  Create-and-Mint-Tokens
 npm i
 ```
 
-3. Open two additional terminals in your VS code.
+
+3. Install the Openzepplin contracts:
+
+```
+npm install @openzeppelin/contracts
+```
+
+
+4. Open two additional terminals in your VS code.
 
 In the second terminal type: npx hardhat node.
 
