@@ -29,6 +29,7 @@ In the third terminal, type: npx hardhat run scripts/deploy.js --network localho
 
 To interact with various fucntions, use Remix, an online Solidity IDE. To get started, go to the Remix website at https://remix.ethereum.org/.
 But first, connect Remix and your local file system:
+
 cd to your project and install remixd package:
 
 ```
@@ -42,6 +43,7 @@ remixd
 ```
 
 Now open the Remix website, click on default workspace and change it to "connect with localhost". Compile your contract. Then go to deploy section and change environment to "Injected Provider". This will help you to connect your metamask wallet. Click on deploy to deploy the contract. Now, you can use the various functions to interact with the contract and mint, burn and transfer your tokens.
+
 ## Technologies Used 
 - Remix - an online Solidity IDE  
 - MetaMask - Wallet and gateway to Ethereum blockchain  
